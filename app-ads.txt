@@ -18,3 +18,4 @@ google.com, pub-8382887437509292, DIRECT, f08c47fec0942fa0
 # 2. Upload this file to your website's root directory
 # 3. Make it accessible at: https://yourdomain.com/app-ads.txt
 # 4. Add your website domain to AdMob Console
+
