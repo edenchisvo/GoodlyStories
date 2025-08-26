@@ -1,0 +1,20 @@
+# app-ads.txt file for GoodlyStories Android App
+# This file helps prevent ad fraud by declaring authorized ad sellers
+# 
+# Format: <domain>, <publisher ID>, <relationship>, <certification authority ID>
+# 
+# Replace the placeholder values below with your actual information
+
+# Google AdMob (required for AdMob ads)
+google.com, pub-8382887437509292, DIRECT, f08c47fec0942fa0
+
+# Add other ad networks here if you use them in the future
+# Example:
+# facebook.com, 123456789, DIRECT, f08c47fec0942fa0
+# unity3d.com, 123456, DIRECT, f08c47fec0942fa0
+
+# Instructions:
+# 1. Replace 'pub-8382887437509292' with your actual AdMob publisher ID
+# 2. Upload this file to your website's root directory
+# 3. Make it accessible at: https://yourdomain.com/app-ads.txt
+# 4. Add your website domain to AdMob Console
